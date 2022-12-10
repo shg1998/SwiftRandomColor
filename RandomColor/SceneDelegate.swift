@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  RandomColor
 //
-//  Created by Amir Panahi on 9/19/1401 AP.
+//  Created by MohammadHossein Nejadhendi on 9/19/1401 AP.
 //
 
 import UIKit
